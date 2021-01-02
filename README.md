@@ -1,0 +1,1 @@
+This is Yusuke's first git project!
